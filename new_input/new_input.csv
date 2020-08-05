@@ -1,0 +1,3 @@
+Applicant,sub_grade_num,short_emp,emp_length_num,dti,payment_inc_ratio,delinq_2yrs,delinq_2yrs_zero,inq_last_6mths,last_delinq_none,last_major_derog_none,open_acc,pub_rec,pub_rec_zero,revol_util,grade,home_ownership,purpose,prediction,prediction_good_loan_%,prediction_bad_loan_%,input_date,input_time
+johndoe,0.2,0.0,5.0,2.54,7.37,0.0,1.0,1.0,1.0,1.0,13.0,0.0,1.0,17.2,A,MORTGAGE,home_improvement,Good Loan,82.2,17.8,2020-08-05,20:05:40
+aminah,0.6,0.0,11.0,18.7,0.0,1.0,0.0,0.0,1.0,15.0,15.0,0.0,1.0,77.0,D,RENT,debt_consolidation,Bad Loan,17.4,82.6,2020-08-05,20:09:34
